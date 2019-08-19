@@ -1,6 +1,6 @@
 {
-  "name": "s3",
-  "version": "4.4.0",
+  "name": "whenlabs/s3",
+  "version": "4.4.1",
   "description": "high level amazon s3 client. upload and download files and directories",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewrk/node-s3-client"
+    "url": "https://github.com/whenlabs/node-s3-client"
   },
   "keywords": [
     "amazon",

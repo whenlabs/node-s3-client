@@ -2,7 +2,7 @@
 
 ## Installation
 
-`npm install s3 --save`
+`npm install whenlabs/s3 --save`
 
 ## Features
 
